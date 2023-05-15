@@ -1,3 +1,5 @@
 public class AbstractHello {
-    abstract void onText(String text);
+     void onText(String text) {
+
+     }
 }
